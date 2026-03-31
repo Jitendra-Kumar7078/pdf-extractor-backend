@@ -19,8 +19,6 @@ It uses Spring Boot and integrates with Ollama (DeepSeek model) for intelligent 
 
 ## ⚙️ Setup Instructions
 
-1. Clone the repository:
-```bash
 git clone https://github.com/YOUR_USERNAME/pdf-extractor-backend.git
 Open in IntelliJ
 Run the application
