@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: pdfextractor
+
+    spring:
+      ai:
+        ollama:
+          chat:
+            options:
+              model: deepseek-r1:8b
+            enabled: true
