@@ -38,7 +38,10 @@ Uses DeepSeek model via Ollama for:
 Topic classification
 Smart extraction (future scope)
 
-Front-end:   
+Front-end:   https://github.com/Jitendra-Kumar7078/smart-pdf-extractor
+
+Make Sure Your Frontend is running on https://localhost:3000
+
 📸 Screenshots
 
 SCREENSHOT1:    https://drive.google.com/file/d/1dzXIIaLuogQriuDfRXxEoiO1EnDDiC6Z/view?usp=sharing
